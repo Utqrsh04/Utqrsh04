@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Vishwakarma</h1>
-<h3 align="center">A Boy living vicariously through himself !</h3>
+<h3 align="center">Ingenious and determined aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utqrsh&label=Profile%20views&color=0e75b6&style=flat" alt="utqrsh" /> </p>
 
@@ -9,10 +9,7 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://instagram.com/utqrsh.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="utqrsh.exe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/utqrsh_cs19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="utqrsh_cs19" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/cronos04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="cronos04" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/utkarshrkt2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="utkarshrkt2001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-vishwa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedURL" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
