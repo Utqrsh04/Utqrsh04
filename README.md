@@ -1,4 +1,3 @@
-<head> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> </head>
 <h1 align="center">Hi 👋, I'm Utkarsh Vishwakarma</h1>
 <h3 align="center"></h3>
 
@@ -10,6 +9,5 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left" color="white">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="utkarsh-vishwa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/utkarsh-vishwa?trk=profile-badge">Utkarsh Vishwakarma</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="utkarsh-vishwa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/utkarsh-vishwa?trk=profile-badge">LinkedIn</a></div>              
 </p>
