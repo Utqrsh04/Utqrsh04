@@ -1,5 +1,4 @@
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<head> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> </head>
 <h1 align="center">Hi 👋, I'm Utkarsh Vishwakarma</h1>
 <h3 align="center"></h3>
 
