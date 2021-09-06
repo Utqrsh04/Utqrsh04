@@ -9,5 +9,6 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left" color="white">
-<a href="https://www.linkedin.com/in/utkarsh-vishwa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedURL" height="30" width="40" color="white"/></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="utkarsh-vishwa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/utkarsh-vishwa?trk=profile-badge">Utkarsh Vishwakarma</a></div>
+              
 </p>
