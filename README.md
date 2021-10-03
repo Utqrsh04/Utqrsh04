@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utqrsh&label=Profile%20views&color=0e75b6&style=flat" alt="utqrsh" /> </p>
 
-- I'm currently studying **Btech-CSE at GLA University .**
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Wp7L1hXlp0EjviDYYS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/univates-formatura-formei-univates-Wp7L1hXlp0EjviDYYS">via GIPHY</a></p>- I'm currently studying **Btech-CSE at GLA University .**
 
 - 📫 How to reach me **utkarshrkt2001@gmail.com**
 
@@ -20,6 +20,7 @@
  
 </p>
 
+<br></br>
 <h3 align="left">Connect with me: </h3>
 <p align="left" color="white">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="utkarsh-vishwa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/utkarsh-vishwa?trk=profile-badge">LinkedIn</a></div>              
