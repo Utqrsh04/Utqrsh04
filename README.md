@@ -8,9 +8,9 @@
 - 📫 How to reach me **utkarshrkt2001@gmail.com**
 
 
-<!-- - <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="24"> -->
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **Full Stack Development.**
-- <img src="https://media.giphy.com/media/XIDYNVgfAgHjiWW2Dc/giphy.gif" width="25"> Working on **DSA and Problem Solving** 
+<!-- - <img src="https://media.giphy.com/media/XIDYNVgfAgHjiWW2Dc/giphy.gif" width="25">  -->
+- <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="24"> Working on **DSA and Problem Solving** 
 
 <br><br>
 <p align="center">
