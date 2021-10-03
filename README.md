@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utqrsh&label=Profile%20views&color=0e75b6&style=flat" alt="utqrsh" /> </p>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Wp7L1hXlp0EjviDYYS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/univates-formatura-formei-univates-Wp7L1hXlp0EjviDYYS">via GIPHY</a></p>- I'm currently studying **Btech-CSE at GLA University .**
+- 🎓 I'm currently studying **Btech-CSE at GLA University .**
 
 - 📫 How to reach me **utkarshrkt2001@gmail.com**
 
 
 <!-- - <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="24"> -->
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on **Full Stack Development.**
-<!-- - <img src="https://media.giphy.com/media/XIDYNVgfAgHjiWW2Dc/giphy.gif" width="25">  -->
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **Full Stack Development.**
+- <img src="https://media.giphy.com/media/XIDYNVgfAgHjiWW2Dc/giphy.gif" width="25"> Working on **DSA and Problem Solving** 
 
 <br><br>
 <p align="center">
