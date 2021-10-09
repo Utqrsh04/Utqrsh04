@@ -8,9 +8,9 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=utqrsh04&theme=dark" />
 
 ## About Me 👨‍🎓
-- 🌱 I’m currently learning Full Stack Developement
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to intern Frontend developer roles
-<!-- - 💬  -->
+- ⛏️ Working on my DSA and Problem Solving Skills
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/utkarsh-vishwa/">Linkedin</a>, <a href="https://www.instagram.com/utqrsh.exe/">Instagram</a>
 
 <br><br><br>
