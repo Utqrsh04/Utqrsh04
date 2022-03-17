@@ -14,8 +14,12 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/utkarsh-vishwa/">Linkedin</a>, <a href="https://www.instagram.com/utqrsh.exe/">Instagram</a>
 
 <br><br><br>
-<img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
-<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/>
+<img src="https://snehil.dev/images/svg/react.svg" title="ReactJs" height="32" width="32" />
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/git.svg" title="Git" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/nodejs.svg" title="Nodejs" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/typescript.svg" title="TypeScript" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/vscode.svg" title="VS Code" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/chrome.svg" title="Chrome Dev Tools" height="32" width="32" />
@@ -23,15 +27,11 @@
 <img src="https://snehil.dev/images/svg/css.svg" title="CSS" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/sass.svg" title="SASS" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/bootstrap.svg" title="Bootstrap" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/react.svg" title="ReactJs" height="32" width="32" />
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/nodejs.svg" title="Node.js" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/firebase.svg" title="Firebase" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/git.svg" title="Git" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/nodejs.svg" title="Nodejs" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/mongo.svg" title="TypeScript" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
+<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/>
+<img src="https://snehil.dev/images/svg/nodejs.svg" title="Node.js" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/mongo.svg" title="MongoDB" height="32" width="32" />
 <br>
 
 <p align="center">
