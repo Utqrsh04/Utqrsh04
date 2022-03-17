@@ -15,7 +15,6 @@
 
 <br><br><br>
 <img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/python.svg" title="Python" height="32" width="32" />
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/>
 <img src="https://snehil.dev/images/svg/typescript.svg" title="TypeScript" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/vscode.svg" title="VS Code" height="32" width="32" />
@@ -31,7 +30,8 @@
 <img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/git.svg" title="Git" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />
-
+<img src="https://snehil.dev/images/svg/nodejs.svg" title="Nodejs" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/mongo.svg" title="TypeScript" height="32" width="32" />
 <br>
 
 <p align="center">
