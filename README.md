@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to intern Fullstack developer roles
 - ⛏️ Working on my DSA and Problem Solving Skills
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/utkarsh-vishwa/">Linkedin</a>, <a href="https://www.instagram.com/utqrsh.exe/">Instagram</a> <a href="https://leetcode.com/utqrsh04/">LeetCode</a> 
+- 📫 How to reach me: <strong> <a href="https://www.linkedin.com/in/utkarsh-vishwa/">Linkedin</a> </strong>, <strong> <a href="https://www.instagram.com/utqrsh.exe/">Instagram</a> </strong>, <strong> <a href="https://leetcode.com/utqrsh04/">LeetCode</a> </strong> 
 
 
 <br><br><br>
